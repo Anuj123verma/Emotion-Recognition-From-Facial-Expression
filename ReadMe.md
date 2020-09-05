@@ -16,3 +16,4 @@ The model links are in given word file named Model_links
 2017267_mod14.sav - Model trained from segmented images
 2017267_hist14.sav - History of Model trained from segmented images
 
+To see all the details about this project please see the FinalReport.pdf

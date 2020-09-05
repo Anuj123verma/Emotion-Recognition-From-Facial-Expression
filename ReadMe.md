@@ -17,3 +17,12 @@ The model links are in given word file named Model_links
 2017267_hist14.sav - History of Model trained from segmented images
 
 To see all the details about this project please see the FinalReport.pdf
+
+Some Images That I captured 
+
+<img src="Images/Emotioin_Angry (1).png">
+<img src="Images/Emotion_Happy (1).png">
+<img src="Images/Emotion_Neutral (1).png">
+<img src="Images/Emotion_Neutral (1).png">
+<img src="Images/Emotion_Surprise (1).png">
+
